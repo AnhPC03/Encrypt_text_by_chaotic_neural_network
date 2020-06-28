@@ -23,7 +23,7 @@ Iterate 10000 times<br/>
 
 Python language with version 3.x<br/>
 Then setup environment:<br/>
-``` pip install numpy ```
+``` pip install numpy ```<br/>
 ``` pip install matplotlib ```
 
 ## Usage:
