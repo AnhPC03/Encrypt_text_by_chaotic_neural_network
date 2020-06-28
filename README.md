@@ -4,7 +4,7 @@
 
 The project allows to encrypt and decrypt text file by Cryptography based on delayed chaotic neural networks.<br/>
 The secrete key of this cryptosystem is (g1, g2, a1, a2, T12, T21, k1, k2, and number of transient iterations N0) must be kept secrete.<br/>
-![secrete key] (./key_secrete.png)
+![secrete key](./key_secrete.png)
 <br/><br/>
 The trajectory of state variables x1(t), x2(t) as below:<br/>
 Iterate 100 times<br/>
